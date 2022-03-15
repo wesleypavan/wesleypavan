@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wesleypavan
-- 👀 I’m interested in data science, python and linux.
-- 🌱 I’m currently learning SQL, javascript and react.
+- 👀 I’m interested in data science, machine learning, python and linux.
+- 🌱 I’m currently learning SQL and deep learning.
 - 💞️ I’m looking to collaborate on data science projects.
 
 <!---
