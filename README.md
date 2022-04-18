@@ -1,6 +1,10 @@
+Hello 👋
+
+My name is Wesley Pavan, I'm a Electrical Engineer and Data Scientist with eleven years of experience in brazilian energy prices forecasts.
+
 - 👋 Hi, I’m @wesleypavan
-- 👀 I’m interested in data science, machine learning, python and linux.
-- 🌱 I’m currently learning SQL and deep learning.
+- 👀 I love data science, machine learning, deep learning and AI applications of any sorts.
+- 🌱 I’m using VBA/excel, python, sql and aws ec2 and s3 on a daily basis.
 - 💞️ I’m looking forward to collaborate on data science projects.
 
 <!---
