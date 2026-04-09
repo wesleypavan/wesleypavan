@@ -1,6 +1,6 @@
 Hello 👋
 
-My name is Wesley Pavan, I'm a Electrical Engineer and Data Scientist with eleven years of experience in brazilian energy prices forecasts.
+My name is Wesley Pavan, I'm a Electrical Engineer and Data Scientist with fifteen years of experience in brazilian energy prices forecasts.
 
 - 👋 Hi, I’m @wesleypavan
 - 👀 I love data science, machine learning, deep learning and AI applications of any sorts.
